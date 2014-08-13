@@ -1,0 +1,7 @@
+#Backup Files
+*~
+
+#Compiled Object files, Static and Dynamic libs
+*.a
+*.so
+*.gox
